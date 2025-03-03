@@ -1,0 +1,402 @@
+Protein_accession	InterPro_annotations_accession	Group	Name	Comment	Duplum flag	Comment2	dupliIndex
+CopciAB_8610.T0	IPR000679	zinc finger, gata-type	Zinc finger, GATA-type	NA	NA	NA	FALSE
+CopciAB_8766.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_9737.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_14413.T0	IPR005612	other	other	NA	NA	NA	FALSE
+CopciAB_16197.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_21235.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_25623.T0	IPR000679	zinc finger, gata-type	Zinc finger, GATA-type	NA	NA	NA	FALSE
+CopciAB_41009.T0	IPR009057	helix-turn-helix	Homeobox-like domain superfamily	NA	NA	NA	FALSE
+CopciAB_48789.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_52858.T0	IPR036236	zinc finger, c2h2-type	Zinc finger C2H2 superfamily	NA	NA	NA	FALSE
+CopciAB_71850.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_75175.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	TRUE
+CopciAB_75175.T0	IPR009057	helix-turn-helix	Homeobox-like domain superfamily	NA	NA	NA	TRUE
+CopciAB_80293.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_82537.T0	IPR003347	cupin fold	JmjC domain	NA	NA	NA	FALSE
+CopciAB_91028.T0	IPR000967	zinc finger, nf-x1-type	Zinc finger, NF-X1-type	NA	NA	NA	FALSE
+CopciAB_92378.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_103773.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_127523.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	TRUE
+CopciAB_127523.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	TRUE
+CopciAB_128772.T0	IPR009071	hmg-box	High mobility group box domain	NA	NA	NA	FALSE
+CopciAB_140785.T0	IPR010982	phage lambda repressor	Lambda repressor-like, DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_142396.T0	IPR009071	hmg-box	High mobility group box domain	NA	NA	NA	FALSE
+CopciAB_147648.T0	IPR018608	gti, structure unknown	Gti1/Pac2 family	NA	NA	NA	FALSE
+CopciAB_148855.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_150151.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_155580.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_173502.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_177830.T0	IPR003958	histone fold	Transcription factor CBF/NF-Y/archaeal histone domain	NA	NA	NA	FALSE
+CopciAB_182362.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_186902.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_188021.T0	IPR009071	hmg-box	High mobility group box domain	NA	NA	NA	FALSE
+CopciAB_190095.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_196242.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_207660.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_211795.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_218387.T0	IPR013927	leucine zipper	Transcription factor Opi1	NA	NA	NA	FALSE
+CopciAB_228143.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_232602.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_253715.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_255029.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_257505.T0	IPR013088	zinc finger, gata-type	Zinc finger, NHR/GATA-type	NA	NA	NA	FALSE
+CopciAB_266355.T0	IPR009071	hmg-box	High mobility group box domain	NA	NA	NA	FALSE
+CopciAB_268422.T0	IPR009071	hmg-box	High mobility group box domain	NA	NA	NA	FALSE
+CopciAB_276340.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_283338.T0	IPR024333	mata	Mating-type protein A-alpha/beta 1, N-terminal	NA	NA	NA	TRUE
+CopciAB_283338.T0	IPR008422	helix-turn-helix, homeobox	Homeobox KN domain	NA	NA	NA	TRUE
+CopciAB_283338.T0	IPR009057	helix-turn-helix	Homeobox-like domain superfamily	NA	NA	NA	TRUE
+CopciAB_291372.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_320670.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_326191.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_351135.T0	IPR006780	helix-loop-helix+c2c2 zinc finger	YABBY protein	NA	NA	NA	FALSE
+CopciAB_354711.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_355212.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_355294.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_355454.T0	IPR003347	cupin fold	JmjC domain	NA	NA	NA	FALSE
+CopciAB_355613.T0	IPR001356	helix-turn-helix, homeobox	Homeobox domain	NA	NA	NA	TRUE
+CopciAB_355613.T0	IPR009057	helix-turn-helix	Homeobox-like domain superfamily	NA	NA	NA	TRUE
+CopciAB_356143.T0	IPR003958	histone fold	Transcription factor CBF/NF-Y/archaeal histone domain	NA	NA	NA	FALSE
+CopciAB_356598.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_356696.T0	IPR009071	hmg-box	High mobility group box domain	NA	NA	NA	FALSE
+CopciAB_357265.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_357287.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_357392.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_357405.T0	IPR015351	p53 beta sandwitch	RBP-J/Cbf11/Cbf12, DNA binding	NA	NA	NA	FALSE
+CopciAB_357608.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	TRUE
+CopciAB_357608.T0	IPR003150	winged helix-turn-helix	DNA-binding RFX-type winged-helix domain	NA	NA	NA	TRUE
+CopciAB_357816.T0	IPR024333	mata	Mating-type protein A-alpha/beta 1, N-terminal	NA	NA	NA	TRUE
+CopciAB_357816.T0	IPR001356	helix-turn-helix, homeobox	Homeobox domain	NA	NA	NA	TRUE
+CopciAB_357816.T0	IPR009057	helix-turn-helix	Homeobox-like domain superfamily	NA	NA	NA	TRUE
+CopciAB_357854.T0	IPR017930	helix-turn-helix	Myb domain	NA	NA	NA	FALSE
+CopciAB_358096.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_358593.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_359157.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_359410.T0	IPR036236	zinc finger, c2h2-type	Zinc finger C2H2 superfamily	NA	NA	NA	FALSE
+CopciAB_359800.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_359824.T0	IPR004827	leucine zipper	Basic-leucine zipper domain	NA	NA	NA	FALSE
+CopciAB_359946.T0	IPR004827	leucine zipper	Basic-leucine zipper domain	NA	NA	NA	TRUE
+CopciAB_359946.T0	IPR018287	hap	Hap4 transcription factor, heteromerisation domain	NA	NA	NA	TRUE
+CopciAB_360628.T0	IPR018608	gti, structure unknown	Gti1/Pac2 family	NA	NA	NA	FALSE
+CopciAB_360688.T0	IPR018608	gti, structure unknown	Gti1/Pac2 family	NA	NA	NA	FALSE
+CopciAB_361093.T0	IPR003347	cupin fold	JmjC domain	NA	NA	NA	FALSE
+CopciAB_361176.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_361229.T0	IPR010982	phage lambda repressor	Lambda repressor-like, DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_361317.T0	IPR001766	winged helix-turn-helix	Fork head domain	NA	NA	NA	FALSE
+CopciAB_361815.T0	IPR009057	helix-turn-helix	Homeobox-like domain superfamily	NA	NA	NA	FALSE
+CopciAB_362058.T0	IPR000232	leucine zipper, heat shock factor	Heat shock factor (HSF)-type, DNA-binding	NA	NA	NA	TRUE
+CopciAB_362058.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	TRUE
+CopciAB_362058.T0	IPR027725	hsf	Heat shock transcription factor family	NA	NA	NA	TRUE
+CopciAB_362201.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_362992.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_363298.T0	IPR003958	histone fold	Transcription factor CBF/NF-Y/archaeal histone domain	NA	NA	NA	FALSE
+CopciAB_363471.T0	IPR009057	helix-turn-helix	Homeobox-like domain superfamily	NA	NA	NA	FALSE
+CopciAB_363605.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_364376.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_364804.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_364950.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_365047.T0	IPR009057	helix-turn-helix	Homeobox-like domain superfamily	NA	NA	NA	FALSE
+CopciAB_365306.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_365344.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_365373.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_365536.T0	IPR021755	other	other	NA	NA	NA	TRUE
+CopciAB_365536.T0	IPR004827	leucine zipper	Basic-leucine zipper domain	NA	NA	NA	TRUE
+CopciAB_365596.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_365658.T0	IPR003163	helix-turn-helix	Transcription regulator HTH, APSES-type DNA-binding domain	NA	NA	Let's include it.	TRUE
+CopciAB_365658.T0	IPR036887	winged helix-turn-helix	HTH APSES-type DNA-binding domain superfamily	NA	NA	NA	TRUE
+CopciAB_366095.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_366173.T0	IPR001356	helix-turn-helix, homeobox	Homeobox domain	NA	NA	NA	TRUE
+CopciAB_366173.T0	IPR009057	helix-turn-helix	Homeobox-like domain superfamily	NA	NA	NA	TRUE
+CopciAB_366426.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_366541.T0	IPR003958	histone fold	Transcription factor CBF/NF-Y/archaeal histone domain	NA	NA	NA	FALSE
+CopciAB_366658.T0	IPR009071	hmg-box	High mobility group box domain	NA	NA	NA	FALSE
+CopciAB_367124.T0	IPR003958	histone fold	Transcription factor CBF/NF-Y/archaeal histone domain	NA	NA	NA	FALSE
+CopciAB_367371.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_367382.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_367840.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_367986.T0	IPR017930	helix-turn-helix	Myb domain	NA	NA	NA	FALSE
+CopciAB_368751.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_369403.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_369621.T0	IPR013767	pas domain	PAS fold	NA	NA	NA	FALSE
+CopciAB_370029.T0	IPR001356	helix-turn-helix, homeobox	Homeobox domain	NA	NA	NA	TRUE
+CopciAB_370029.T0	IPR009057	helix-turn-helix	Homeobox-like domain superfamily	NA	NA	NA	TRUE
+CopciAB_370105.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_370595.T0	IPR013088	zinc finger, gata-type	Zinc finger, NHR/GATA-type	NA	NA	NA	TRUE
+CopciAB_370595.T0	IPR009057	helix-turn-helix	Homeobox-like domain superfamily	NA	NA	NA	TRUE
+CopciAB_370755.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_372250.T0	IPR003347	cupin fold	JmjC domain	NA	NA	NA	FALSE
+CopciAB_372502.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_372985.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_373097.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_374136.T0	IPR003347	cupin fold	JmjC domain	NA	NA	NA	FALSE
+CopciAB_374193.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_374546.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_375393.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_375918.T0	IPR001766	winged helix-turn-helix	Fork head domain	NA	NA	NA	FALSE
+CopciAB_376911.T0	IPR003120	sta12, structural class not known	Transcription factor Ste12	NA	NA	NA	TRUE
+CopciAB_376911.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	TRUE
+CopciAB_377260.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_378125.T0	IPR001766	winged helix-turn-helix	Fork head domain	NA	NA	NA	FALSE
+CopciAB_378471.T0	IPR004827	leucine zipper	Basic-leucine zipper domain	NA	NA	NA	TRUE
+CopciAB_378471.T0	IPR023167	yap1	Yap1 redox domain superfamily	NA	NA	NA	TRUE
+CopciAB_378471.T0	IPR013910	pap1	Transcription factor PAP1	NA	NA	NA	TRUE
+CopciAB_378666.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_378776.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_379479.T0	IPR009071	hmg-box	High mobility group box domain	NA	NA	NA	FALSE
+CopciAB_380110.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_380868.T0	IPR036236	zinc finger, c2h2-type	Zinc finger C2H2 superfamily	NA	NA	NA	FALSE
+CopciAB_381350.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_383233.T0	IPR009057	helix-turn-helix	Homeobox-like domain superfamily	NA	NA	NA	FALSE
+CopciAB_383339.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_384206.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_389393.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_395277.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_395717.T0	IPR001083	cu_fist_domain	Copper fist DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_396092.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_398576.T0	IPR001083	cu_fist_domain	Copper fist DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_399307.T0	IPR005612	other	other	NA	NA	NA	FALSE
+CopciAB_401147.T0	IPR009071	hmg-box	High mobility group box domain	NA	NA	NA	FALSE
+CopciAB_401376.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_403313.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_404567.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_404793.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_405410.T0	IPR036236	zinc finger, c2h2-type	Zinc finger C2H2 superfamily	NA	NA	NA	FALSE
+CopciAB_409059.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_409417.T0	IPR009071	hmg-box	High mobility group box domain	NA	NA	NA	FALSE
+CopciAB_411203.T0	IPR005612	other	other	NA	NA	NA	FALSE
+CopciAB_411205.T0	IPR000818	tea	TEA/ATTS domain	NA	NA	NA	FALSE
+CopciAB_412955.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_414903.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_415641.T0	IPR018608	gti, structure unknown	Gti1/Pac2 family	NA	NA	NA	FALSE
+CopciAB_416366.T0	IPR017930	helix-turn-helix	Myb domain	NA	NA	NA	FALSE
+CopciAB_416566.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_419006.T0	IPR002100	mads-box	Transcription factor, MADS-box	NA	NA	NA	FALSE
+CopciAB_419773.T0	IPR000679	zinc finger, gata-type	Zinc finger, GATA-type	NA	NA	NA	FALSE
+CopciAB_420757.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_421729.T0	IPR009071	hmg-box	High mobility group box domain	NA	NA	NA	FALSE
+CopciAB_422163.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_423109.T0	IPR012890	other	other	NA	NA	NA	FALSE
+CopciAB_428371.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_428431.T0	IPR009057	helix-turn-helix	Homeobox-like domain superfamily	NA	NA	NA	FALSE
+CopciAB_428727.T0	IPR001356	helix-turn-helix, homeobox	Homeobox domain	NA	NA	NA	FALSE
+CopciAB_429092.T0	IPR009057	helix-turn-helix	Homeobox-like domain superfamily	NA	NA	NA	FALSE
+CopciAB_433404.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_433906.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_435498.T0	IPR009071	hmg-box	High mobility group box domain	NA	NA	NA	FALSE
+CopciAB_437393.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_438098.T0	IPR003163	helix-turn-helix	Transcription regulator HTH, APSES-type DNA-binding domain	NA	NA	Let's include it.	TRUE
+CopciAB_438098.T0	IPR036887	winged helix-turn-helix	HTH APSES-type DNA-binding domain superfamily	NA	NA	NA	TRUE
+CopciAB_438504.T0	IPR009071	hmg-box	High mobility group box domain	NA	NA	NA	FALSE
+CopciAB_438648.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_438653.T0	IPR018608	gti, structure unknown	Gti1/Pac2 family	NA	NA	NA	FALSE
+CopciAB_439201.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_439373.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_439649.T0	IPR003958	histone fold	Transcription factor CBF/NF-Y/archaeal histone domain	NA	NA	NA	FALSE
+CopciAB_439660.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_439738.T0	IPR009057	helix-turn-helix	Homeobox-like domain superfamily	NA	NA	NA	FALSE
+CopciAB_440197.T0	IPR004827	leucine zipper	Basic-leucine zipper domain	NA	NA	NA	FALSE
+CopciAB_440363.T0	IPR000818	tea	TEA/ATTS domain	NA	NA	NA	FALSE
+CopciAB_440676.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_441399.T0	IPR013088	zinc finger, gata-type	Zinc finger, NHR/GATA-type	NA	NA	NA	FALSE
+CopciAB_441661.T0	IPR012617	aatf	Apoptosis-antagonizing transcription factor, C-terminal	NA	NA	NA	FALSE
+CopciAB_441820.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_442128.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_442154.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_443109.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_443222.T0	IPR009057	helix-turn-helix	Homeobox-like domain superfamily	NA	NA	NA	FALSE
+CopciAB_443979.T0	IPR010982	phage lambda repressor	Lambda repressor-like, DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_444224.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_444512.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_444557.T0	IPR003150	winged helix-turn-helix	DNA-binding RFX-type winged-helix domain	NA	NA	NA	FALSE
+CopciAB_444578.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_445014.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_445556.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_446173.T0	IPR003349	cupin fold	JmjN domain	NA	NA	NA	FALSE
+CopciAB_446227.T0	IPR018608	gti, structure unknown	Gti1/Pac2 family	NA	NA	NA	FALSE
+CopciAB_446261.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	TRUE
+CopciAB_446261.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	TRUE
+CopciAB_446500.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_447030.T0	IPR036236	zinc finger, c2h2-type	Zinc finger C2H2 superfamily	NA	NA	NA	FALSE
+CopciAB_447209.T0	IPR001606	other	other	NA	NA	NA	FALSE
+CopciAB_447627.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_447711.T0	IPR000679	zinc finger, gata-type	Zinc finger, GATA-type	NA	NA	NA	FALSE
+CopciAB_447714.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_448047.T0	IPR036236	zinc finger, c2h2-type	Zinc finger C2H2 superfamily	NA	NA	NA	FALSE
+CopciAB_448376.T0	IPR009071	hmg-box	High mobility group box domain	NA	NA	NA	FALSE
+CopciAB_448532.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_448672.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_449036.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_449111.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_449246.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_450109.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_450657.T0	IPR001766	winged helix-turn-helix	Fork head domain	NA	NA	NA	FALSE
+CopciAB_451915.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_452220.T0	IPR004827	leucine zipper	Basic-leucine zipper domain	NA	NA	NA	FALSE
+CopciAB_452512.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_452897.T0	IPR004827	leucine zipper	Basic-leucine zipper domain	NA	NA	NA	FALSE
+CopciAB_454517.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_454673.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_455447.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_457367.T0	IPR017930	helix-turn-helix	Myb domain	NA	NA	NA	FALSE
+CopciAB_457792.T0	IPR004827	leucine zipper	Basic-leucine zipper domain	NA	NA	NA	FALSE
+CopciAB_457859.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_457874.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_458752.T0	IPR008422	helix-turn-helix, homeobox	Homeobox KN domain	NA	NA	NA	TRUE
+CopciAB_458752.T0	IPR009057	helix-turn-helix	Homeobox-like domain superfamily	NA	NA	NA	TRUE
+CopciAB_459581.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_460235.T0	IPR001356	helix-turn-helix, homeobox	Homeobox domain	NA	NA	NA	TRUE
+CopciAB_460235.T0	IPR009057	helix-turn-helix	Homeobox-like domain superfamily	NA	NA	NA	TRUE
+CopciAB_460394.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_461533.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_462238.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_462294.T0	IPR009071	hmg-box	High mobility group box domain	NA	NA	NA	FALSE
+CopciAB_462713.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_463453.T0	IPR000679	zinc finger, gata-type	Zinc finger, GATA-type	NA	NA	NA	FALSE
+CopciAB_463566.T0	IPR018783	eny2	Transcription factor, enhancer of yellow 2	NA	NA	NA	FALSE
+CopciAB_463573.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_464402.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_464505.T0	IPR004827	leucine zipper	Basic-leucine zipper domain	NA	NA	NA	FALSE
+CopciAB_465048.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_465631.T0	IPR004827	leucine zipper	Basic-leucine zipper domain	NA	NA	NA	FALSE
+CopciAB_465637.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_465651.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_466373.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_466523.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_466652.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_466792.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_466997.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_467166.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_467457.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_467558.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_467871.T0	IPR009071	hmg-box	High mobility group box domain	NA	NA	NA	FALSE
+CopciAB_468224.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_468628.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_468691.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_468849.T0	IPR012942	other	other	NA	NA	NA	FALSE
+CopciAB_468958.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_470074.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_470184.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_471285.T0	IPR001289	nf-ya	Nuclear transcription factor Y subunit A	NA	NA	NA	FALSE
+CopciAB_471446.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_471840.T0	IPR001766	winged helix-turn-helix	Fork head domain	NA	NA	NA	FALSE
+CopciAB_471878.T0	IPR003163	helix-turn-helix	Transcription regulator HTH, APSES-type DNA-binding domain	NA	NA	Let's include it.	TRUE
+CopciAB_471878.T0	IPR036887	winged helix-turn-helix	HTH APSES-type DNA-binding domain superfamily	NA	NA	NA	TRUE
+CopciAB_472459.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_472771.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_473384.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_473663.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_473786.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_474262.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_475252.T0	IPR004198	zinc finger, c5hc2-type	Zinc finger, C5HC2-type	NA	NA	NA	TRUE
+CopciAB_475252.T0	IPR003349	cupin fold	JmjN domain	NA	NA	NA	TRUE
+CopciAB_475252.T0	IPR001606	other	other	NA	NA	NA	TRUE
+CopciAB_475304.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_475416.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_477121.T0	IPR009071	hmg-box	High mobility group box domain	NA	NA	NA	FALSE
+CopciAB_477342.T0	IPR005612	other	other	NA	NA	NA	FALSE
+CopciAB_477966.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_477967.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_478057.T0	IPR009071	hmg-box	High mobility group box domain	NA	NA	NA	FALSE
+CopciAB_479510.T0	IPR009057	helix-turn-helix	Homeobox-like domain superfamily	NA	NA	NA	FALSE
+CopciAB_480276.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_482097.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_483569.T0	IPR009071	hmg-box	High mobility group box domain	NA	NA	NA	FALSE
+CopciAB_484030.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_484840.T0	IPR001356	helix-turn-helix, homeobox	Homeobox domain	NA	NA	NA	TRUE
+CopciAB_484840.T0	IPR009057	helix-turn-helix	Homeobox-like domain superfamily	NA	NA	NA	TRUE
+CopciAB_485224.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_486007.T0	IPR004827	leucine zipper	Basic-leucine zipper domain	NA	NA	NA	FALSE
+CopciAB_487439.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_487527.T0	IPR009071	hmg-box	High mobility group box domain	NA	NA	NA	FALSE
+CopciAB_491825.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_492516.T0	IPR001356	helix-turn-helix, homeobox	Homeobox domain	NA	NA	NA	TRUE
+CopciAB_492516.T0	IPR009057	helix-turn-helix	Homeobox-like domain superfamily	NA	NA	NA	TRUE
+CopciAB_492590.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_492675.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_493449.T0	IPR000818	tea	TEA/ATTS domain	NA	NA	NA	FALSE
+CopciAB_493627.T0	IPR001356	helix-turn-helix, homeobox	Homeobox domain	NA	NA	NA	TRUE
+CopciAB_493627.T0	IPR009057	helix-turn-helix	Homeobox-like domain superfamily	NA	NA	NA	TRUE
+CopciAB_493971.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_494418.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_494420.T0	IPR004827	leucine zipper	Basic-leucine zipper domain	NA	NA	NA	FALSE
+CopciAB_494425.T0	IPR018608	gti, structure unknown	Gti1/Pac2 family	NA	NA	NA	FALSE
+CopciAB_494695.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_494817.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_495201.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_495444.T0	IPR009071	hmg-box	High mobility group box domain	NA	NA	NA	FALSE
+CopciAB_495715.T0	IPR018608	gti, structure unknown	Gti1/Pac2 family	NA	NA	NA	FALSE
+CopciAB_495814.T0	IPR017930	helix-turn-helix	Myb domain	NA	NA	NA	FALSE
+CopciAB_495951.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_496036.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_496408.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_496907.T0	IPR000232	leucine zipper, heat shock factor	Heat shock factor (HSF)-type, DNA-binding	NA	NA	NA	TRUE
+CopciAB_496907.T0	IPR027725	hsf	Heat shock transcription factor family	NA	NA	NA	TRUE
+CopciAB_496907.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	TRUE
+CopciAB_497032.T0	IPR009071	hmg-box	High mobility group box domain	NA	NA	NA	FALSE
+CopciAB_497259.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_497345.T0	IPR000679	zinc finger, gata-type	Zinc finger, GATA-type	NA	NA	NA	FALSE
+CopciAB_497371.T0	IPR001606	other	other	NA	NA	NA	FALSE
+CopciAB_497602.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_497620.T0	IPR001356	helix-turn-helix, homeobox	Homeobox domain	NA	NA	NA	TRUE
+CopciAB_497620.T0	IPR009057	helix-turn-helix	Homeobox-like domain superfamily	NA	NA	NA	TRUE
+CopciAB_497753.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_498210.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_498328.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_498449.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_500056.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_500486.T0	IPR009071	hmg-box	High mobility group box domain	NA	NA	NA	FALSE
+CopciAB_500715.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_501442.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_501778.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_501966.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_502020.T0	IPR015351	p53 beta sandwitch	RBP-J/Cbf11/Cbf12, DNA binding	NA	NA	NA	FALSE
+CopciAB_502989.T0	IPR000818	tea	TEA/ATTS domain	NA	NA	NA	FALSE
+CopciAB_503007.T0	IPR003163	helix-turn-helix	Transcription regulator HTH, APSES-type DNA-binding domain	NA	NA	Let's include it.	TRUE
+CopciAB_503007.T0	IPR036887	winged helix-turn-helix	HTH APSES-type DNA-binding domain superfamily	NA	NA	NA	TRUE
+CopciAB_503067.T0	IPR003347	cupin fold	JmjC domain	NA	NA	NA	FALSE
+CopciAB_503155.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_509566.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_510352.T0	IPR036236	zinc finger, c2h2-type	Zinc finger C2H2 superfamily	NA	NA	NA	FALSE
+CopciAB_513938.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_517791.T0	IPR002100	mads-box	Transcription factor, MADS-box	NA	NA	NA	FALSE
+CopciAB_520333.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_523533.T0	IPR000232	leucine zipper, heat shock factor	Heat shock factor (HSF)-type, DNA-binding	NA	NA	NA	TRUE
+CopciAB_523533.T0	IPR027725	hsf	Heat shock transcription factor family	NA	NA	NA	TRUE
+CopciAB_523533.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	TRUE
+CopciAB_524005.T0	IPR009071	hmg-box	High mobility group box domain	NA	NA	NA	FALSE
+CopciAB_526931.T0	IPR004827	leucine zipper	Basic-leucine zipper domain	NA	NA	NA	FALSE
+CopciAB_528229.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_528616.T0	IPR009057	helix-turn-helix	Homeobox-like domain superfamily	NA	NA	NA	FALSE
+CopciAB_530020.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_532272.T0	IPR004827	leucine zipper	Basic-leucine zipper domain	NA	NA	NA	FALSE
+CopciAB_533202.T0	IPR036236	zinc finger, c2h2-type	Zinc finger C2H2 superfamily	NA	NA	NA	FALSE
+CopciAB_537309.T0	IPR003958	histone fold	Transcription factor CBF/NF-Y/archaeal histone domain	NA	NA	NA	FALSE
+CopciAB_537559.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_537571.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_538765.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_538904.T0	IPR000679	zinc finger, gata-type	Zinc finger, GATA-type	NA	NA	NA	FALSE
+CopciAB_540044.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_540430.T0	IPR036887	winged helix-turn-helix	HTH APSES-type DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_540585.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_541604.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE
+CopciAB_541612.T0	IPR000818	tea	TEA/ATTS domain	NA	NA	NA	FALSE
+CopciAB_541759.T0	IPR009071	hmg-box	High mobility group box domain	NA	NA	NA	FALSE
+CopciAB_541779.T0	IPR009071	hmg-box	High mobility group box domain	NA	NA	NA	FALSE
+CopciAB_543308.T0	IPR013088	zinc finger, gata-type	Zinc finger, NHR/GATA-type	NA	NA	NA	FALSE
+CopciAB_545459.T0	IPR009071	hmg-box	High mobility group box domain	NA	NA	NA	FALSE
+CopciAB_545797.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_546255.T0	IPR000232	leucine zipper, heat shock factor	Heat shock factor (HSF)-type, DNA-binding	NA	NA	NA	TRUE
+CopciAB_546255.T0	IPR027725	hsf	Heat shock transcription factor family	NA	NA	NA	TRUE
+CopciAB_546255.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	TRUE
+CopciAB_547258.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_1000100.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_1000105.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_1000130.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_1000243.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_1000800.T0	IPR010982	phage lambda repressor	Lambda repressor-like, DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_1001031.T0	IPR036236	zinc finger, c2h2-type	Zinc finger C2H2 superfamily	NA	NA	NA	FALSE
+CopciAB_1001229.T0	IPR013087	zinc finger, c2h2-type	Zinc finger C2H2-type	NA	NA	NA	FALSE
+CopciAB_1001414.T0	IPR036390	winged helix-turn-helix	Winged helix DNA-binding domain superfamily	NA	NA	NA	FALSE
+CopciAB_1001489.T0	IPR009057	helix-turn-helix	Homeobox-like domain superfamily	NA	NA	NA	FALSE
+CopciAB_1002098.T0	IPR001138	c6 zn	Zn(2)-C6 fungal-type DNA-binding domain	NA	NA	NA	FALSE

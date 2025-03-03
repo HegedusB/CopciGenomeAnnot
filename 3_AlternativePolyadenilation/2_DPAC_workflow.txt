@@ -1,0 +1,6 @@
+# hisat2 genome index
+hisat2-build CopciAB_new_jgi_20220113.fasta CopciAB_fullg
+
+DPAC_1.19/DPAC -p PM -t 40 ./copci_meta_all_pecs.tsv ./hisat2_index_dir/CopciAB_fullg
+
+python3 ./DPAC_1.19/Scripts/MakeBEDGraph_pALenAr_fromMeta.py ./copci_meta_all_pecs.tsv --Description "All_PACSeq" --MinScore 75 --MinCount 20 --ReqAs 15
