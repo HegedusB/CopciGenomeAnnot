@@ -9,3 +9,5 @@ Collection of scripts used for the description of the Alternative Polyadenylatio
 
 # 4_DEGanalysis
 Collection of scripts used for Differentially Expressed Gene (DEG) analysis.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15019528.svg)](https://doi.org/10.5281/zenodo.15019528)
